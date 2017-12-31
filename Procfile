@@ -1,1 +1,1 @@
-worker: node Yasuo.js
+worker: node bot.js
